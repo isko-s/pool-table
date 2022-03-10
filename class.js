@@ -1,7 +1,7 @@
 function ispis(){
-    let paragraf = document.querySelector(".relative");
-    paragraf.innerHTML="Good Luck :-(";
-    paragraf.style.color="#fdc503";
-    paragraf.style.fontSize="100px";
-    paragraf.style.textAlign="center";
+    let nasText = document.querySelector(".relative");
+    nasText.innerHTML="Good Luck :-(";
+    nasText.style.color="#fdc503";
+    nasText.style.fontSize="100px";
+    nasText.style.textAlign="center";
 } 

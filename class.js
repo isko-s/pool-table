@@ -4,4 +4,6 @@ function ispis(){
     nasText.style.color="#fdc503";
     nasText.style.fontSize="100px";
     nasText.style.textAlign="center";
+    /*nasText.style.display="none";*/
+    
 } 
